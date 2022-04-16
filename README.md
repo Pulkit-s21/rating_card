@@ -4,6 +4,7 @@
 
 Live Site URL: https://rating-card-0adfee.netlify.app/
 
+CodePen: https://codepen.io/Pulkit2104/pen/gOoQWoX
 
 ![](images/Screenshot%202022-04-16%20124909.png)
 ![](images/Screenshot%202022-04-16%20124933.png)
